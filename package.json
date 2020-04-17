@@ -73,7 +73,7 @@
     "husky": "^1.0.0-rc.13",
     "jsdoc": "git+https://github.com/BrandonOCasey/jsdoc.git#feat/plugin-from-cli",
     "karma": "^4.4.1",
-    "lint-staged": "^8.2.1",
+    "lint-staged": "^10.1.4",
     "node-sass": "^4.13.1",
     "not-prerelease": "^1.0.1",
     "npm-merge-driver-install": "^1.0.0",
